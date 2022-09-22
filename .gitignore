@@ -1,0 +1,7 @@
+.prettierrc
+package.json
+package-lock.json
+tailwind.config.js
+.vscode
+src/
+node_modules/
